@@ -23,3 +23,4 @@ cv2.destroyAllWindows()
 
 
 //色調変換としてhsv変換を行った.
+//YOUTUBE:https://www.youtube.com/watch?v=32sx4dq0bhk&feature=youtu.be
